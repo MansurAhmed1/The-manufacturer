@@ -1,8 +1,7 @@
 
 # Assighnment12
 
- click here to see live site  [https://assighment12-5a547.web.app/](https://assighment12-5a547.web.app/).
- 
+
 
 
 
